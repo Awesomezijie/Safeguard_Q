@@ -1,0 +1,24 @@
+# Visual Studio 编译产物
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.obj
+*.ilk
+*.pdb
+*.exe
+*.exp
+*.lib
+
+# VS 缓存
+.vs/
+
+# EasyX、日志
+*.log
+*.tmp
+
+# Windows系统文件
+Thumbs.db
+.DS_Store
